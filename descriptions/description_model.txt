@@ -1,3 +1,6 @@
+▪ noise_detection_added3 모델
+
+
 <<적용 흐름 간단 정리>>
 Step1: [사람이 직접 라벨링한 소음 100개] -> Teacher 모델 학습 (ViLD-text)
 Step2: [Unlabeled 소음 1,000개] → Teacher가 soft label 제공 -> Student가 ViLD-image로 따라 학습
