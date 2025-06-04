@@ -16,4 +16,4 @@
 ▪ We are currently in the process of updating the dataset and modifying the classification strategy accordingly. Additionally, the text embedding component from the mark1 will be removed as it is no longer required in the new design.  
 
 # License
-▪ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+▪ This project is licensed under the PolyForm Noncommercial License 1.0.0. Commercial use is not permitted. - see the [LICENSE](LICENSE) file for details.
